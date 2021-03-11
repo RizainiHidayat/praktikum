@@ -1,5 +1,3 @@
-# praktikum2021_17630418
-
 # PRAKTIKUM WEB DASAR 2021
 
 ### Pertemuan 1 
