@@ -27,7 +27,7 @@
                     <tr>
                         <th>No</th>
                         <th>Username</th>
-                        <th>Level Pengguna</th>
+                        <!-- <th>Level Pengguna</th> -->
                         <th>Aksi</th>
                     </tr>
                 </thead>

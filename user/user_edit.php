@@ -40,7 +40,7 @@ while ($data = mysqli_fetch_array($result)) {
                     <input type="password" name="password_baru" class="form-control" placeholder="Password Baru" required>
                 </div>
             </div>
-            <div class=" form-group row">
+            <!-- <div class=" form-group row">
                 <label for="level" class="col-sm-3 col-form-label">Pilih Level pengguna</label>
                 <div class="col-sm-9">
                     <select class="form-control" name="level">
@@ -49,7 +49,7 @@ while ($data = mysqli_fetch_array($result)) {
                         <option <?php if ($level == "mahasiswa") echo 'selected'; ?> value="mahasiswa">mahasiswa</option>
                     </select>
                 </div>
-            </div>
+            </div> -->
             <div class=" card-footer bg-transparent">
                 <input type="hidden" name="id" value=<?php echo $id; ?>>
                 <button type="submit" name="update" class="btn btn-primary">Simpan</button>
