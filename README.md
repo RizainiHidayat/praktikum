@@ -10,4 +10,4 @@
 - membuat tambah data user dengan edit password
 
 ### Pertemuan 4 
-- belajar github & gitbash
+- belajar github & gitbash & penambahan modul praktikum pertemuan
