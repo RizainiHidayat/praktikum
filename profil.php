@@ -32,10 +32,10 @@
                         <td align="right" width="50%"><strong>Media Sosial :</strong></td>
                         <td align="left" width="50%">
                             <a href="http://facebook.com/rizainihidayat" target="_blank" style="text-decoration:none;">
-                                <img src="img/medsos/facebook.svg" width="30" alt="facebook">
+                                <img src="img/svg/036-facebook.svg" width="30" alt="facebook">
                             </a>
                             <a href="http://instagram.com/rasa.lengkeng" target="_blank" style="text-decoration:none;">
-                                <img src="img/medsos/instagram.svg" width="30" alt="instagram">
+                                <img src="img/svg/029-instagram.svg" width="30" alt="instagram">
                             </a>
                         </td>
                     </tr>
