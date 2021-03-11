@@ -50,7 +50,7 @@
                         <tr>
                             <td><?php echo $no ?></td>
                             <td><?php echo $data['username']; ?></td>
-                            <td><?php echo $data['level']; ?></td>
+                            <!-- <td><?php echo $data['level']; ?></td> -->
                             <td>
                                 <a class="btn btn-sm btn-success" href="?page=user-edit&id=<?php echo $data['id']; ?>">Edit</a>
                                 <a class="btn btn-sm btn-danger" href="../user/user_delete.php?id=<?php echo $data['id']; ?>" onclick="return confirm('Anda yakin mau menghapus item ini ?')">Hapus</a>
